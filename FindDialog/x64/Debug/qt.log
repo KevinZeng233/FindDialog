@@ -1,0 +1,3 @@
+FindDialog.qrc|"D:\qt_test\FindDialog\FindDialog\FindDialog.qrc" -o ".\GeneratedFiles\qrc_FindDialog.cpp" --name FindDialog
+FindDialog.ui|"D:\qt_test\FindDialog\FindDialog\FindDialog.ui" -o ".\GeneratedFiles\ui_FindDialog.h"
+FindDialog.h|"D:\qt_test\FindDialog\FindDialog\FindDialog.h" -o ".\GeneratedFiles\Debug\moc_FindDialog.cpp" "-I.\GeneratedFiles" "-I." "-ID:\qt_5.10.1_x64\include" "-I.\GeneratedFiles\Debug" "-ID:\qt_5.10.1_x64\include\QtCore" "-ID:\qt_5.10.1_x64\include\QtGui" "-ID:\qt_5.10.1_x64\include\QtANGLE" "-ID:\qt_5.10.1_x64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
